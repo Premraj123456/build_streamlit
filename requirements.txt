@@ -1,3 +1,0 @@
-# Specify post-installation commands (optional)
-postInstall:
-  - bash setup.sh
